@@ -1,5 +1,5 @@
 Official repository for the paper "Mask and Compress: Efficient Skeleton-based Action Recognition in Continual Learning" (ICPR 2024).
-This repository is based on the original [Mammoth](https://github.com/aimagelab/mammoth). Backbones,datasets and models are kept for compatibility with the original repository.
+This repository is based on the original [Mammoth](https://github.com/aimagelab/mammoth). Backbones, datasets and models are kept for compatibility with the original repository.
 
 <p align="center">
   <img width="230" height="230" src="logo.png" alt="logo">
